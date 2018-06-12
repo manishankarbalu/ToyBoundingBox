@@ -1,5 +1,5 @@
 # Bounding Box for objects using Pytorch
-This repository is built to understand object detection and bounding box from scratch. Here we implemet a simple geomentrical shape detection  :small_blue_diamond:   :small_red_triangle: and construct a bounding box  :pencil2: over the object. This is just a toy example.
+This repository is built to understand object detection and bounding box from scratch. Here we implemet a simple geomentrical shape detection and construct a bounding box over the object. This is just a toy example.
  
 Refrence:[Pytorch](https://pytorch.org/)<br/>
          [REF paper](https://arxiv.org/abs/1512.02325)  
